@@ -576,6 +576,8 @@
 | Meganoticias Chile | [youtube](https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live) | [web](https://www.meganoticias.cl/senal-en-vivo/) | [logo](https://graph.facebook.com/meganoticiascl/picture?width=200&height=200) | - | EMB |
 | TC TV Ecuador | [stream](https://www.dailymotion.com/embed/video/x7wijay?autoplay=1) | [web](https://www.tctelevision.com/en-vivo) | [logo](https://graph.facebook.com/tctelevision10/picture?width=200&height=200) | - | EMB |
 | TeleAmazonas Ecuador | [m3u8](https://api.new.livestream.com/accounts/1359588/events/9942377/live.m3u8) | [web](http://www.teleamazonas.com/teleamazonas-en-vivo/) | [logo](https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200) | - | - |
+| Ecuavisa Ecuador | [stream](http://200.24.132.99:8000/play/a02k) | [web](https://www.ecuavisa.com/envivo) | [logo](https://pbs.twimg.com/profile_images/553725322483335168/P8WbdzKV_400x400.jpeg) | - | - |
+| ECDF Ecuador | [stream](http://200.24.159.179:8500/play/a006) | [logo](https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png) | - | - |
 | Bolivia 7.1 TV | - | [web](http://www.boliviatv.bo/principal/vivo71.php) | [logo](https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200) | - | W3U,EXTA |
 | Bolivia 7.2 TV | [m3u8](https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8) | [web](http://www.boliviatv.bo/principal/vivo72.php) | [logo](https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200) | - | - |
 | Red Pat Bolivia | [m3u8](https://master.tucableip.com/pat/playlist.m3u8) | [web](https://www.redpat.tv/envivo/) | [logo](https://graph.facebook.com/patboliviahd/picture?width=200&height=200) | - | - |
